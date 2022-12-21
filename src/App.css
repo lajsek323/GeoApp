@@ -1,0 +1,40 @@
+.customButton{
+  background-color: #1fdf64 !important;
+  border-color: #1fdf64 !important;
+  border-radius: 24px!important;
+  width: 30% !important;
+}
+.input{
+  border: none !important;
+  border-radius: 24px!important;
+  height: 40px !important;
+}
+.input:focus{
+  outline: none !important;
+}
+.customCard{
+  background-color: #282828 !important;
+  border-color: #282828 !important;
+}
+.customCardBorder{
+  border-color: #282828 !important;
+}
+.App{
+  height: 100%;
+  background-color: #171717 !important;
+  font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif !important;
+}
+.about-border {
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #1fdf64;
+  margin: 20px auto;
+}
+.toRegister{
+  color: #1fdf64;
+  text-decoration: none !important;
+}
+.toRegister:hover{
+  color: #1fdf64;
+}
