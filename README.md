@@ -1,4 +1,5 @@
 A simple application for learning the location of countries written using React.js.
+Backend written using FastAPI, users can log in and view their results
 <br />
 
 ![image](https://user-images.githubusercontent.com/65293987/209021447-26231644-6dcb-47d0-87db-09bcc2ea72be.png)
